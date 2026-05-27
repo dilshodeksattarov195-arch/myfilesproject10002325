@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productsalidate",
+        "uuid": 19902000,
+        "checksum": "3d70bd"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
